@@ -1,0 +1,2 @@
+这是一个C#版本的轻量级SQL关系映射，解决的问题是，从SQL到内存中对象之间的问题，这样，只需要建立和表结构相同的数据结构的类，就可以进行直接映射，做成持久层，来进行下一步的操作。
+This is a lightweight SQL mapping C# version of the problem is, from the SQL to the objects in memory, so, only need to set up and the data structure of the table structure in the same class, can be directly mapped, made of the persistence layer to the next step.
